@@ -1,0 +1,147 @@
+body /* This section covers all the text in the body area in the HTML code */
+{
+    background-color: rgb(70,70,70); /* Gray */
+    font-family: "Verdana";
+    font-size: 12pt;
+    color: rgb(255,255,255); /* White */
+}
+h1 /* This section covers the largest headers */
+{
+    font-family: "Arial";
+}
+h2 /* This section covers the second largest headers */
+{
+    color: rgb(2,164,211); /* Blue */
+}
+
+div#header /* This edits the information in the division class titled header */
+{
+    margin: 25px;
+    color: rgb(2,164,211); /* Blue */
+    background-color: rgb(55,55,55); /* Gray */
+}
+
+div#body /* This edits the information in the division class titled body */
+{
+    margin: 25px;
+}
+
+div#footer /* This edits the information in the division class titled footer */
+{
+    margin: 25px;
+    color: rgb(255,255,255); /* White */
+    background-color: rgb(55,55,55); /* Blue */
+}
+a:link{ color: rgb(2,164,211) }
+a:visited{ color: rgb(125,249,255)}
+a:hover{ color: rgb(255,255,80)}
+ul.navigation
+{
+    color: rgb(255,255,255); /* White */
+    list-style-type: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+ul.navigation li
+{
+    margin-top: 2px;
+    padding: 2px;
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+}
+
+.navigation li a{
+	float:left;
+	font-family: arial;
+	font-size: 14px;
+	background:rgb(2,164,211); /* Blue */
+        color: rgb(255,255,255); /* White */
+	text-align:center;
+	line-height: 35px;
+	text-decoration: none;
+	padding-left:1px;
+	padding-right:1px;
+	border-right:1px solid rgb(255,255,255); /* White */
+}
+
+.navigation li a:hover{
+	background:rgb(255,255,80); /* Yellow */
+	color: rgb(0,0,0); /* Black */
+	text-decoration: none;
+	border-right:1px solid rgb(0,0,0); /* Black */
+}body /* This section covers all the text in the body area in the HTML code */
+{
+    background-color: rgb(70,70,70); /* Gray */
+    font-family: "Verdana";
+    font-size: 12pt;
+    color: rgb(255,255,255); /* White */
+}
+h1 /* This section covers the largest headers */
+{
+    font-family: "Arial";
+}
+h2 /* This section covers the second largest headers */
+{
+    color: rgb(2,164,211); /* Blue */
+}
+
+div#header /* This edits the information in the division class titled header */
+{
+    margin: 25px;
+    color: rgb(2,164,211); /* Blue */
+    background-color: rgb(55,55,55); /* Gray */
+}
+
+div#body /* This edits the information in the division class titled body */
+{
+    margin: 25px;
+}
+
+div#footer /* This edits the information in the division class titled footer */
+{
+    margin: 25px;
+    color: rgb(255,255,255); /* White */
+    background-color: rgb(55,55,55); /* Blue */
+}
+a:link{ color: rgb(2,164,211) }
+a:visited{ color: rgb(125,249,255)}
+a:hover{ color: rgb(255,255,80)}
+ul.navigation
+{
+    color: rgb(255,255,255); /* White */
+    list-style-type: none;
+    margin: 0px;
+    padding: 5px;
+}
+
+ul.navigation li
+{
+    margin-top: 2px;
+    padding: 2px;
+    display: inline-block;
+    text-align: center;
+    list-style-type: none;
+}
+
+.navigation li a{
+	float:left;
+	font-family: arial;
+	font-size: 14px;
+	background:rgb(2,164,211); /* Blue */
+        color: rgb(255,255,255); /* White */
+	text-align:center;
+	line-height: 35px;
+	text-decoration: none;
+	padding-left:1px;
+	padding-right:1px;
+	border-right:1px solid rgb(255,255,255); /* White */
+}
+
+.navigation li a:hover{
+	background:rgb(255,255,80); /* Yellow */
+	color: rgb(0,0,0); /* Black */
+	text-decoration: none;
+	border-right:1px solid rgb(0,0,0); /* Black */
+}

@@ -1,0 +1,90 @@
+.centered{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.page-header{
+	color: white;
+}
+
+.score-header{
+	color: white;
+	align: center;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.score-table{
+	border: none;
+	align: center;
+	width: 100%;
+	margin: 10%;
+}
+
+.score-table-entry{
+	color: white;
+	font-size: 20px;
+}
+
+.score-col{
+	height: 100%;
+}
+
+.right-white-border{
+	border-right: 1px solid white;
+	height: 100%;
+}
+
+.game-row{
+	margin-right: 0px !important;
+	height: 100%;
+}
+
+.tiny-text{
+	font-size: 5pt;
+}
+
+.main-content{
+	padding-top: 65px;
+}
+
+.lobby-table{
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 1em;
+	
+}
+
+.lobby-table td{
+	border: 3px ridge #0099FF;
+	height: 100px;
+	background-color: #66FFFF;
+}
+
+.lobby-table tr{
+	width: 100%;
+}
+
+.navbar-custom{
+	color: #FFFFFF;
+	background-color: #8CBFF4;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color: #FFFFFF;
+}
+
+.navbar-custom .navbar-nav > li > a:hover, .navbar-nav > li > a:focus{
+    color: #6A9DC3;
+    background-color: #EEEEEE;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    background-color: #7BAFD4;
+}
+
+.btn-group{
+	padding-bottom: 3px;
+}
